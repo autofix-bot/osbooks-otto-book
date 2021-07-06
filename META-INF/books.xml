@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book />
+    <book slug="otto-book" collection-id="col88877" href="../collections/otto-book.collection.xml" />
 </container>
