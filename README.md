@@ -9,7 +9,9 @@ In the Owner drop-down menu, select openstax.
 
 Name the Repository:
 osbooks-book-name, if repo contains only one collection, or
+
 osbooks-book-name-bundle, if repo contains more than one collection
+
 Note: Repository names can be changed at a later time. Description can be left blank.
 
 Set repository visibility to Private.
