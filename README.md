@@ -1,5 +1,6 @@
 Creating a GitHub Book Repository (non-archive book)
 
+
 Go to the template repository: https://github.com/openstax/template-osbooks
 
 Above the file list, click “Use this template”.
