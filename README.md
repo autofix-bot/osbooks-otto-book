@@ -1,4 +1,4 @@
-Creating a GitHub Book Repository (non-archive book)
+##Creating a GitHub Book Repository (non-archive book)
 
 
 Go to the template repository: https://github.com/openstax/template-osbooks
