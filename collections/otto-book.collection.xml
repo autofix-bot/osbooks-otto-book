@@ -11,6 +11,9 @@
         <col:module document="m99991"/>
         <col:subcollection>
           <md:title>Preqs</md:title>
+          <col:content>
+             <col:module document="m99992"/>
+          </col:content>
         </col:subcollection>
     </col:content>
 </col:collection>
