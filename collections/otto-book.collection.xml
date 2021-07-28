@@ -1,13 +1,15 @@
 <col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
-    <col:metadata>
-        <md:uuid>4abf0fff-9300-4554-9cb9-2cefd46ecccc</md:uuid>
-        <md:title>otto book</md:title>
-        <md:content-id>col88877</md:content-id>
-        <md:slug>otto-book</md:slug>
-        <md:language>en</md:language>
-        <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-    </col:metadata>
-    <col:content>
-        <col:module document="m99991"/>
-    </col:content>
+  <col:metadata>
+    <md:uuid>4abf0fff-9300-4554-9cb9-2cefd46ecccc</md:uuid>
+    <md:title>otto book</md:title>
+    <md:content-id>col88877</md:content-id>
+    <md:slug>otto-book</md:slug>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  </col:metadata>
+  <content>
+    <module document="m99991"/>
+    <module document="m99992"/>
+    <module document="m00001"/>
+  </content>
 </col:collection>
