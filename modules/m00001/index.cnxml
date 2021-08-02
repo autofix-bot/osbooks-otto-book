@@ -1,17 +1,17 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>ALASZKA</title>
+  <title>SZÉCHENYI LÁNCHÍD</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>ALASZKA</md:title>
+    <md:title>SZÉCHENYI LÁNCHÍD</md:title>
     <md:content-id>m00001</md:content-id>
     <md:uuid>f7a6fa06-5f38-48fe-bb01-9947bfa9dc90</md:uuid>
   </metadata>
   <content>
-    <list id="list-00001">
-      <title>LIST TITLE</title>
-      <item>1</item>
-      <item>2</item>
-      <item>3</item>
-    </list>
-    <para id="para-00001">Chapter.... 3</para>
+    <para id="para-00001">Széchenyi Lánchíd panoráma
+      <media alt="Figure of a bull and a graph of market prices.">
+        <image mime-type="image/jpg" src="../../media/budapest2.jpg"/></media>
+    
+        The Széchenyi Chain Bridge (Hungarian: Széchenyi lánchíd is a chain bridge that spans the River Danube between Buda and Pest, the western and eastern sides of Budapest, the capital of Hungary. Designed by English engineer William Tierney Clark and built by Scottish engineer Adam Clark, it was the first permanent bridge across the Danube in Hungary. It was opened in 1849. It is anchored on the Pest side of the river to Széchenyi (formerly Roosevelt) Square, adjacent to the Gresham Palace and the Hungarian Academy of Sciences, and on the Buda side to Adam Clark Square, near the Zero Kilometre Stone and the lower end of the Castle Hill Funicular, leading to Buda Castle.
+    
+      </para>
   </content>
 </document>
