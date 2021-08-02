@@ -8,10 +8,10 @@
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
   </col:metadata>
   <content>
+    <module document="m00002"/>
     <module document="m99991"/>
     <module document="m99992"/>
     <module document="m00001"/>
     <module document="m00003"/>
-    <module document="m00002"/>
   </content>
 </col:collection>
