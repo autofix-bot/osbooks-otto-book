@@ -1,1 +1,13 @@
-
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="hu">
+  <col:metadata>
+    <md:uuid>aa4a0fff-9301-4554-9cb9-333fecccc</md:uuid>
+    <md:title>Tűrő törő</md:title>
+    <md:content-id>col77722</md:content-id>
+    <md:slug>Tűrő törő</md:slug>
+    <md:language>hu</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  </col:metadata>
+  <content>
+    <module document="m00006"/>
+  </content>
+</col:collection>
