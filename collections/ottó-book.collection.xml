@@ -7,6 +7,11 @@
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
+    <col:module document="m00008"/>
+    <col:subcollection>
+      <md:title>MODŐÍ</md:title>
+      <col:content/>
+    </col:subcollection>
     <col:module document="m00007"/>
     <col:module document="m99992"/>
     <col:module document="m00002"/>
