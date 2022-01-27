@@ -1,5 +1,6 @@
 <col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
-  <col:metadata>
+  <col:metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col88877</md:content-id>
     <md:title>ottó book</md:title>
     <md:slug>ottó-book</md:slug>
     <md:language>en</md:language>
