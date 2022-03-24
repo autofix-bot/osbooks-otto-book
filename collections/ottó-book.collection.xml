@@ -1,19 +1,23 @@
-<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml" xml:lang="en">
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
     <md:title>ottó book</md:title>
     <md:slug>ottó-book</md:slug>
-    <md:content-id>col88877</md:content-id>
     <md:language>en</md:language>
     <md:uuid>4abf0fff-9300-4554-9cb9-2cefd46ecccc</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
     <col:module document="m00008"/>
-    <col:module document="m00002"/>
-    <col:module document="m99992"/>
-    <col:module document="m99991"/>
-    <col:module document="m00001"/>
-    <col:module document="m00003"/>
-    <col:module document="m00004"/>
+    <col:subcollection>
+      <md:title>Test Subcollection</md:title>
+      <col:content>
+        <col:module document="m99992"/>
+        <col:module document="m00002"/>
+        <col:module document="m99991"/>
+        <col:module document="m00001"/>
+        <col:module document="m00003"/>
+        <col:module document="m00004"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
