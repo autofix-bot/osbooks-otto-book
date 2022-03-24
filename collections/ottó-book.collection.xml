@@ -1,4 +1,4 @@
-<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml" xml:lang="en">
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
     <md:title>ottó book</md:title>
     <md:slug>ottó-book</md:slug>
@@ -9,11 +9,16 @@
   </col:metadata>
   <col:content>
     <col:module document="m00008"/>
-    <col:module document="m00002"/>
-    <col:module document="m99992"/>
-    <col:module document="m99991"/>
-    <col:module document="m00001"/>
-    <col:module document="m00003"/>
-    <col:module document="m00004"/>
+    <col:subcollection>
+      <md:title>Városok az országban</md:title>
+      <col:content>
+        <col:module document="m00002"/>
+        <col:module document="m99992"/>
+        <col:module document="m99991"/>
+        <col:module document="m00001"/>
+        <col:module document="m00003"/>
+        <col:module document="m00004"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
