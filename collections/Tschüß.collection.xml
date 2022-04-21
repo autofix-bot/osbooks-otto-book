@@ -1,13 +1,14 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
-  <col:metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-    <md:uuid>aa4a0fff-9300-4554-9cb9-2cefecccc59a</md:uuid>
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
     <md:title>Tschüß</md:title>
-    <md:content-id>col77711</md:content-id>
     <md:slug>Tschüß</md:slug>
+    <md:content-id>col77711</md:content-id>
     <md:language>en</md:language>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:uuid>aa4a0fff-9300-4554-9cb9-2cefecccc59a</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
-  <content>
-    <module document="m00005"/>
-  </content>
+  <col:content>
+    <col:module document="m00007"/>
+    <col:module document="m00005"/>
+  </col:content>
 </col:collection>
