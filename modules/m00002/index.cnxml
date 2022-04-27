@@ -1,28 +1,28 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
-  <title>Rejtő Jenő</title>
+  <title>BUDA és PEST</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Rejtő Jenő</md:title>
+    <md:title>BUDA és PEST</md:title>
     <md:content-id>m00002</md:content-id>
     <md:uuid>c10c3144-827c-4aec-bc84-5c5afe27d599</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Rejtő könyvek:</para>
+    <para id="para-00001">BUDA, PEST, ÓBUDA, KISPEST</para>
     <para id="para-00002">
       <cite id="cite-00001">
         <emphasis effect="bold">
-      Három testőr Afrikában
+      BUDA
       <newline/>
-      A tizennégy karátos autó
-      <newline/>
-      Elveszett cirkáló
+      PEST
       </emphasis>
       </cite>
       <div> 
-        <media alt="Három testőr Afrikában">
-          <image mime-type="image/jpg" src="../../media/rejto-3testor.jpeg"/></media>
-          <media alt="Tizennégy karátos autó">
-            <image mime-type="image/jpg" src="../../media/rejto-14karatos.jpeg"/>
+        <media alt="Bp">
+          <image mime-type="image/jpg" src="../../media/Budapest.jpg"/></media>
+          <media alt="Buda">
+            <image mime-type="image/jpg" src="../../media/budapest2.jpg"/>
         </media>
+        <media alt="Pest">
+          <image mime-type="image/jpg" src="../../media/pest.jpeg"/></media>
       </div>
     </para>
   </content>
