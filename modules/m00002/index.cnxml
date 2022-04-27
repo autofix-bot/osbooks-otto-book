@@ -1,17 +1,26 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
-  <title>BUDAPEST</title>
+  <title>Rejtő Jenő</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>Budapest</md:title>
+    <md:title>Rejtő Jenő</md:title>
     <md:content-id>m00002</md:content-id>
     <md:uuid>c10c3144-827c-4aec-bc84-5c5afe27d599</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">A magyar főváros</para>
-    <para id="para-00002">Látványosságok...
+    <para id="para-00001">Rejtő könyvek:</para>
+    <para id="para-00002">
+      <cite id="cite-00001">
+      Három testőr Afrikában
+      <newline/>
+      A tizennégy karátos autó
+      <newline/>
+      Elveszett cirkáló
+      </cite>
       <div> 
-        <figure id="Figure_01_00_001"><label/><media id="fs-id1165137810701" alt="Figure of a bull and a graph of market prices.">
-          <image mime-type="image/jpg" src="../../media/Budapest.jpg"/>
-        </media></figure>
+        <media alt="Három testőr Afrikában">
+          <image mime-type="image/jpg" src="../../media/rejto-3testor.jpeg"/></media>
+          <media alt="Tizennégy karátos autó">
+            <image mime-type="image/jpg" src="../../media/rejto-14karatos.jpeg"/>
+        </media>
       </div>
     </para>
   </content>
