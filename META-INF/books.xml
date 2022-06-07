@@ -1,0 +1,5 @@
+<container xmlns="https://openstax.org/namespaces/book-container" version="1">
+    <book slug="ottó-book" style="business-ethics" collection-id="col88877" href="../collections/ottó-book.collection.xml" />
+    <book slug="Tschüß" style="business-ethics" collection-id="col77711" href="../collections/Tschüß.collection.xml" />
+    <book slug="tőkés-tűíz" style="business-ethics" collection-id="col77722" href="../collections/tőkés-tűíz.collection.xml" />     
+</container>
