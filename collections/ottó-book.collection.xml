@@ -2,8 +2,8 @@
   <col:metadata>
     <md:title>ottó book</md:title>
     <md:slug>ottó-book</md:slug>
-    <md:content-id>col88877</md:content-id>
     <md:language>en</md:language>
+    <md:content-id>col88877</md:content-id>
     <md:uuid>4abf0fff-9300-4554-9cb9-2cefd46ecccc</md:uuid>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
@@ -18,6 +18,12 @@
         <col:module document="m00001"/>
         <col:module document="m00003"/>
         <col:module document="m00007"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>kőművesség</md:title>
+      <col:content>
+        <col:module document="m00005"/>
       </col:content>
     </col:subcollection>
   </col:content>
