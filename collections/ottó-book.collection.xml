@@ -19,11 +19,5 @@
         <col:module document="m00007"/>
       </col:content>
     </col:subcollection>
-    <col:subcollection>
-      <md:title>kőművesség</md:title>
-      <col:content>
-        <col:module document="m00005"/>
-      </col:content>
-    </col:subcollection>
   </col:content>
 </col:collection>
