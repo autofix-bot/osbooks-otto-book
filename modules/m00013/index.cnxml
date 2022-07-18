@@ -6,10 +6,13 @@
     <md:uuid>6db18deb-336f-40da-903d-cbcea06bf5b5</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">weird slovak characters: stĺp-ämô-ôňäúie-ľščťžý</para>
-  
-    <media alt="Figure of a bull and a graph of market prices.">
-      <image mime-type="image/jpg" src="../../media/Hungary_16August.jpg"/></media>
+
+    <figure id="Figure_01_00_001"><label/><media id="fs-id1165137810701" alt="Figure of a bull and a graph of market prices.">
+      <image mime-type="image/jpg" src="../../media/Eger-Hungary.jpg"/>
+    </media>
+    
+  <caption>weird slovak characters
+    </caption></figure><para id="fs-id1165137768418">stĺp-ämô-ôňäúie-ľščťžý</para>
   
   </content>
 </document>
