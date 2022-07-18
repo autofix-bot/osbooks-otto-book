@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>stĺp-ämô</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>stĺp-ämô</md:title>
@@ -11,6 +11,11 @@
 
     <newline/>
     more characters: ľ š č ť ž ý ˇ
+
+    <media alt="Figure of a bull and a graph of market prices.">
+      <image mime-type="image/jpg" src="../../media/Hungary_16August.jpg"/></media>
+  
+      KING
 
     </para> 
   </content>
