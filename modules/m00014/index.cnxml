@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>oldal-1</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>oldal-1</md:title>
@@ -12,6 +12,6 @@
     
   <caption>Eger, Hungary
     </caption></figure><para id="fs-id1165137768418">City of Eger, Northern Hungary</para>
-    <para id="para-00001">soltvadkert</para>
+    <para id="para-00001">soltvadkert falu</para>
   </content>
 </document>
