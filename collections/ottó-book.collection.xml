@@ -20,5 +20,11 @@
         <col:module document="m00013"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Bőrfű</md:title>
+      <col:content>
+        <col:module document="m00014"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
