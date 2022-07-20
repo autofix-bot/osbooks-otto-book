@@ -1,5 +1,5 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>während - ß</title>
+  <title><emphasis effect="italics">während - ß</emphasis></title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>während - ß</md:title>
     <md:content-id>m00015</md:content-id>
@@ -13,8 +13,9 @@
 <caption>
   Magyar Magyarország
 </caption></figure>
-    <para id="para-00001">möglichkeit 
+    <para id="para-00001"><emphasis effect="italics">möglichkeit
       In German orthography, the letter ß, called Eszett (IPA: [ɛstsɛt] ess-TSET) or scharfes S (IPA: [ˌʃaʁfəs ɛs]
+    </emphasis> 
     </para>
   </content>
 </document>
