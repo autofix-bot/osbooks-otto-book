@@ -1,7 +1,7 @@
 <document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
-  <title>oldal-1</title>
+  <title>Mit tudsz Egerről?</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title>oldal-1</md:title>
+    <md:title>Mit tudsz Egerről?</md:title>
     <md:content-id>m00014</md:content-id>
     <md:uuid>3aab1427-fd0a-473f-9dfe-62261ec710b9</md:uuid>
   </metadata>
@@ -11,7 +11,27 @@
     </media>
     
   <caption>Eger, Hungary
-    </caption></figure><para id="fs-id1165137768418">City of Eger, Northern Hungary</para>
-    <para id="para-00001">soltvadkert falu</para>
+    </caption></figure><para id="fs-id1165137768418"><sup>City of Eger, </sup><sub>Northern Hungary</sub></para>
+    <para id="para-00001"><emphasis effect="italics">Északkeleti város nagy török történelemmel</emphasis></para>
+
+    <exercise id="fs-id2070158">
+      <problem id="fs-id2070537"><para id="fs-id2394947"><sub>Merre van Eger város?</sub></para>
+      <list id="fs-id1490765" list-type="enumerated" number-style="arabic">
+      <item>észak</item>
+      <item>dél</item>
+      <item>kelet</item>
+      <item>nyugat</item>
+      </list>
+      </problem>
+      <solution id="fs-id1472059">
+      <label/>
+      <para id="fs-id2575240"><emphasis effect="italics">Helyes válasz: 1</emphasis></para>
+      </solution>
+      </exercise>
+      <section id="sect-00001">
+        <title>Dobó Tér</title>
+        <note id="note-00001"><sup>Város</sup><sub> központ a vár alatt</sub>
+          </note>
+      </section>
   </content>
 </document>
