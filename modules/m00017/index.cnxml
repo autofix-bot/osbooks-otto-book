@@ -1,0 +1,15 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Trükkös képletek</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>Trükkös képletek</md:title>
+    <md:content-id>m00017</md:content-id>
+    <md:uuid>21226dc8-5da6-4879-bfa6-9a4ad68665da</md:uuid>
+  </metadata>
+  <content>
+    <note id="fs-id1165038395423" class="equation-callout">
+      <equation id="fs-id1165036894744"><label/><m:math><m:mrow><m:mi>N</m:mi><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>g</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation>
+      <newline />
+      <equation id="fs-id1165036894746"><label/><m:math><m:mrow><m:mi>E</m:mi><m:mo>=</m:mo><m:mi>1/2</m:mi><m:mi>m</m:mi><m:mi>v2</m:mi><m:mo>.</m:mo></m:mrow></m:math></equation>
+      </note>
+  </content>
+</document>
