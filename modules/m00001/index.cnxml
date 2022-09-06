@@ -1,0 +1,12 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>more testing <emphasis effect="italics">Italics</emphasis> &amp; not italics with <sub>subscript</sub> and <sup>superscript</sup> text</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>more testing Italics &amp; not italics with subscript and superscript text</md:title>
+    <md:content-id>m00001</md:content-id>
+    <md:uuid>d97b1b48-62ad-4685-a126-4151c13f29e5</md:uuid>
+  </metadata>
+  <content>
+    <para id="para-123">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. </para>
+    <section class="summary" id="sect-00001"><para id="para-00001">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero.</para></section>
+  </content>
+</document>

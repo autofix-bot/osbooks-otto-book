@@ -1,0 +1,11 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="appendix">
+  <title>another more testing <emphasis effect="italics">Italics</emphasis> &amp; not italics with <sub>subscript</sub> and <sup>superscript</sup> text</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+    <md:title>another more testing</md:title>
+    <md:content-id>m00002</md:content-id>
+    <md:uuid>12cadd1d-c912-49d7-be9b-fc4b9857b968</md:uuid>
+  </metadata>
+  <content class="appendix">
+    <para id="para-12345">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. </para>
+  </content>
+</document>
