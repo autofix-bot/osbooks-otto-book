@@ -9,7 +9,7 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>subcollection</md:title>
+      <md:title>subcollection <emphasis effect="italics">italics</emphasis> <sup>sup</sup> <sub>sub</sub></md:title>
       <col:content>
         <col:module document="m123"/>
         <col:module document="m00001"/>
