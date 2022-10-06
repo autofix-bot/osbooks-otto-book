@@ -10,13 +10,13 @@
 
 <content>
   
-  <figure id="Figure_01_00_001" class="splash unnumbered"><label/><media id="fs-id1165137810701" alt="Figure of a bull and a graph of market prices.">
+  <figure class="splash unnumbered" id="fig-00001"><label/><media alt="Figure of a bull and a graph of market prices.">
         <image mime-type="image/jpg" src="../../media/barbara.jpg"/>
       </media>
       
   <caption>
     Magyar Magyarország
-  </caption></figure><para id="fs-id1165137768418">Towards... just under $100 over the 40 years. It shows that an investment that was worth less than $500 until about 1995 skyrocketed up to about $1,100 by the beginning of 2000. That five-year period became known as the “dot-com bubble” because so many internet startups were formed. As bubbles tend to do, though, the dot-com bubble eventually burst. Many companies grew too fast and then suddenly went out of business. The result caused the sharp decline represented on the graph beginning at the end of 2000.</para>
+  </caption></figure><para id="para-00001">Towards... just under $100 over the 40 years. It shows that an investment that was worth less than $500 until about 1995 skyrocketed up to about $1,100 by the beginning of 2000. That five-year period became known as the “dot-com bubble” because so many internet startups were formed. As bubbles tend to do, though, the dot-com bubble eventually burst. Many companies grew too fast and then suddenly went out of business. The result caused the sharp decline represented on the graph beginning at the end of 2000.</para>
     
 </content>
 </document>
