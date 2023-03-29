@@ -4,7 +4,6 @@
     <md:slug>ottó-book</md:slug>
     <md:language>en</md:language>
     <md:uuid>4abf0fff-9300-4554-9cb9-2cefd46ecccc</md:uuid>
-    <md:content-id>col12011</md:content-id>
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
@@ -25,8 +24,8 @@
       <col:content>
         <col:module document="m00014"/>
         <col:module document="m00018"/>
-        <col:module document="m00016"/>
         <col:module document="m00019"/>
+        <col:module document="m00016"/>
       </col:content>
     </col:subcollection>
   </col:content>
