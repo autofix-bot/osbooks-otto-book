@@ -7,7 +7,6 @@
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
-    <col:module document="m00008"/>
     <col:subcollection>
       <md:title>Városok az országban</md:title>
       <col:content>
@@ -24,6 +23,7 @@
       <col:content>
         <col:module document="m00014"/>
         <col:module document="m00018"/>
+        <col:module document="m00008"/>
         <col:module document="m00016"/>
         <col:module document="m00019"/>
       </col:content>
