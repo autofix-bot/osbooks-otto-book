@@ -14,5 +14,3 @@ These books are available under the [Creative Commons Attribution License](./LIC
 
 ## Support
 If you would like to support the creation of free textbooks for students, your [donations are welcome](https://riceconnect.rice.edu/donation/support-openstax-banner).
-
-NJU
